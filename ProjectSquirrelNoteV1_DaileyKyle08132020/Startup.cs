@@ -1,6 +1,4 @@
-//Class:  ERAU ISTA322 Programming Fundamentals
-//Student:  Kyle Dailey
-//Instructor:  Christine E. Lee, Instructor
+//Author:  Kyle Dailey
 //Date:  08/17/2020
 
 /**************************************************************************************************************************************************************************************
